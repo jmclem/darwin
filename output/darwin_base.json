@@ -2533,6 +2533,216 @@
                 "rediffusion": 0,
                 "titre": "Les battements du temps (27). Le langage des oiseaux (2)"
             }
+        },
+        {
+            "hash": "2013-12-28",
+            "infos": {
+                "date": {
+                    "annee": "2013",
+                    "jour": "28",
+                    "mois": "12"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=798226",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-un-cadeau-de-nouvel-an-0",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2013/12/s52/NET_FI_53e10478-170b-450a-81a0-39efd0c6a611.mp3",
+                "rediffusion": 0,
+                "titre": "Un cadeau de nouvel an"
+            }
+        },
+        {
+            "hash": "2014-01-04",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "04",
+                    "mois": "01"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=801392",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-les-battements-du-temps-28-le-langage-des-oiseaux-3-0",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/01/s02/NET_FI_6c516bf9-c038-4047-947a-a3b5547906cf.mp3",
+                "rediffusion": 0,
+                "titre": "Les battements du temps (28). Le langage des oiseaux (3)"
+            }
+        },
+        {
+            "hash": "2014-01-11",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "11",
+                    "mois": "01"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=814634",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-le-chat-qui-allait-son-chemin-tout-seul-1",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/01/s02/NET_FI_e9bd998f-d079-4fbe-b9bd-de9285515244.mp3",
+                "rediffusion": 0,
+                "titre": "Le chat qui allait son chemin tout seul"
+            }
+        },
+        {
+            "hash": "2014-01-18",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "18",
+                    "mois": "01"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=819668",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-apprivoiser-la-nature",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/01/s03/NET_FI_776c8d94-8a26-45a0-892a-fbe278f58b5a.mp3",
+                "rediffusion": 0,
+                "titre": "Apprivoiser la nature"
+            }
+        },
+        {
+            "hash": "2014-01-25",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "25",
+                    "mois": "01"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=825140",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-apprivoiser-2",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/01/s04/NET_FI_02641671-1f77-4826-9053-02edd0160b16.mp3",
+                "rediffusion": 0,
+                "titre": "Apprivoiser (2)"
+            }
+        },
+        {
+            "hash": "2014-02-01",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "01",
+                    "mois": "02"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=830590",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-aux-origines-de-lagriculture",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/02/s05/NET_FI_43ca8928-ba07-4aa1-99f7-f3a004bb6ade.mp3",
+                "rediffusion": 0,
+                "titre": "Aux origines de l'agriculture"
+            }
+        },
+        {
+            "hash": "2014-02-08",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "08",
+                    "mois": "02"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=835230",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-aux-origines-de-lagriculture-2",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/02/s06/NET_FI_7bfa892c-0e6a-4feb-857d-7dcf28712631.mp3",
+                "rediffusion": 0,
+                "titre": "Aux origines de l'agriculture (2)"
+            }
+        },
+        {
+            "hash": "2014-02-15",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "15",
+                    "mois": "02"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=840668",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-a-la-recherche-des-traces-de-nos-ancetres",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/02/s07/NET_FI_b136ae4f-c8c1-4203-858d-7c0744703e7c.mp3",
+                "rediffusion": 0,
+                "titre": "A la recherche des traces de nos anc\u00eatres"
+            }
+        },
+        {
+            "hash": "2014-02-22",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "22",
+                    "mois": "02"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=844990",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-a-la-recherche-des-traces-des-musiques-de-la-prehistoire",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/02/s08/NET_FI_9ae0bc64-31e3-4275-bedb-44f407ec4e1d.mp3",
+                "rediffusion": 0,
+                "titre": "A la recherche des traces des musiques de la pr\u00e9histoire"
+            }
+        },
+        {
+            "hash": "2014-03-01",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "01",
+                    "mois": "03"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=850994",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-le-lien-qui-nous-rattache-aux-autres-7-le-retour-dulysse",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/03/s09/NET_FI_fdef31e1-6c70-4742-b78b-f46fd37a4f56.mp3",
+                "rediffusion": 0,
+                "titre": "Le lien qui nous rattache aux autres (7): Le retour d'Ulysse"
+            }
+        },
+        {
+            "hash": "2014-03-08",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "08",
+                    "mois": "03"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=855672",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-le-lien-qui-nous-rattache-aux-autres-8-0",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/03/s10/net-fi-013e6092-024d-4546-90c2-b47f554a25fd.mp3",
+                "rediffusion": 0,
+                "titre": "Le lien qui nous rattache aux autres (8)"
+            }
+        },
+        {
+            "hash": "2014-03-15",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "15",
+                    "mois": "03"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=860292",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-la-decouverte-du-nouveau-monde",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/03/s11/net-fi-c9f4a48a-8c0c-4700-b4e6-b785e5230a60.mp3",
+                "rediffusion": 0,
+                "titre": "La d\u00e9couverte du Nouveau Monde"
+            }
+        },
+        {
+            "hash": "2014-03-22",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "22",
+                    "mois": "03"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=865322",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-la-decouverte-du-nouveau-monde-2",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/03/s12/net-fi-657fb4bd-096e-4dd8-a1d2-5763848e9a02.mp3",
+                "rediffusion": 0,
+                "titre": "La d\u00e9couverte du Nouveau Monde (2)"
+            }
+        },
+        {
+            "hash": "2014-03-29",
+            "infos": {
+                "date": {
+                    "annee": "2014",
+                    "jour": "29",
+                    "mois": "03"
+                },
+                "lien_ecouter": "http://www.franceinter.fr/player/reecouter?play=869766",
+                "lien_emission": "http://www.franceinter.fr/emission-sur-les-epaules-de-darwin-la-decouverte-du-nouveau-monde-3",
+                "lien_mp3": "http://www.franceinter.fr/sites/default/files/sons/2014/03/s13/net-fi-caac3ef2-27e6-4e04-b559-9b3be155d0cf.mp3",
+                "rediffusion": 0,
+                "titre": "La d\u00e9couverte du Nouveau Monde (3)"
+            }
         }
     ]
 }
