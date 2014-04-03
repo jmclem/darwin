@@ -44,7 +44,7 @@ parser = argparse.ArgumentParser(description='Création (ou mise à jour) d\'une
 
 parser.add_argument('-id', metavar='emission_id', help='L\'identifiant de l\'émission', default='137151')
 parser.add_argument('-debut', metavar='mois_debut', help='Le mois de départ au format YYYY-MM. Exemple : "2010-09"', default='2010-09')
-parser.add_argument('-fin', metavar='mois_fin', help='Le mois de fin au format YYYY-MM. Exemple : "2013-02"', default='2014-08')
+parser.add_argument('-fin', metavar='mois_fin', help='Le mois de fin au format YYYY-MM. Exemple : "2013-02"', default=datetime.datetime.now().strftime("%Y-%m"))
 parser.add_argument('-dest', metavar='fichier JSON', help='Le fichier JSON dans lequel enregistrer la base de données.', default=u"./output/darwin_base.json")
 parser.add_argument('-force', help='Pour forcer la mise a jour des infos', action='store_true')
 args = parser.parse_args()
